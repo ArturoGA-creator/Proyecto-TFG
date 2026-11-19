@@ -177,25 +177,5 @@ https://localhost:9443
 
 <br/>
 
-<h2 id="equipo">👥 Equipo</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Nombre</th>
-      <th>Rol</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Arturo Gordo Arco</td><td>Desarrollador</td></tr>
-    <tr><td>Victor Sevilla Perez</td><td>Desarrollador</td></tr>
-    <tr><td>José Sánchez Galeote</td><td>Desarrollador</td></tr>
-    <tr><td>Cristhian Camacho Tinoco</td><td>Desarrollador</td></tr>
-    <tr><td>Roberto Rodriguez Zuñiga</td><td>Desarrollador</td></tr>
-  </tbody>
-</table>
-
-<br/>
-
 <h2>🎓 Tutor del Proyecto</h2>
 <p>Raúl Jiménez Benítez</p>
